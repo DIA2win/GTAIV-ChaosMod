@@ -1,4 +1,7 @@
 # GTAIV-ChaosMod
+
+[English](README.md) | [Русский](README_RU.md)
+
 Chaos Mod для Grand Theft Auto IV, основанный на [IV-SDK](https://github.com/Zolika1351/iv-sdk) от [Zolika1351](https://github.com/Zolika1351)
 
 **Статус**: Закрытое бета-тестирование.  
